@@ -1,7 +1,7 @@
 # Data Science Portfolio by Jared Early
 
 ## Data Visualizations
-# COVID Vaccinations Worldwide
+### COVID Vaccinations Worldwide
 Here I am visualizing the people vaccinated per hundred for all countries. 
 
 Lots of data is currently missing. Found dataset from [Kaggle](https://www.kaggle.com/gpreda/covid-world-vaccination-progress).
