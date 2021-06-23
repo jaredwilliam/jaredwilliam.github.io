@@ -4,6 +4,10 @@ Looking at the profits made by foodtrucks in different sized cities. This comes 
 
 [Notebook](https://github.com/jaredwilliam/jaredwilliam.github.io/blob/main/Notebooks/Univariate%20Linear%20Regression/Food%20Trucks%20in%20Cities/notebook.ipynb) | [NB Viewer](https://nbviewer.jupyter.org/github/jaredwilliam/jaredwilliam.github.io/blob/main/Notebooks/Univariate%20Linear%20Regression/Food%20Trucks%20in%20Cities/notebook.ipynb)
 
+## Ecommerce
+Looking at fake ecommerce data to decide whether to focus company efforts on mobile app experience or website. From Jose Portilla's Python Machine Learning Course. 
+[Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/11-Linear-Regression/02-Linear%20Regression%20Project.ipynb)
+
 # Logistic Regression
 [Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/13-Logistic-Regression/02-Logistic%20Regression%20Project.ipynb)
 
