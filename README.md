@@ -1,27 +1,30 @@
-# Linear Regression
-## Food Truck Profits
+# Artifical Intelligence
+
+# Machine Learning
+## Linear Regression
+### Food Truck Profits
 Looking at the profits made by foodtrucks in different sized cities. This comes from Andrew Ng's Machine Learning Course. 
 
 [Notebook](https://github.com/jaredwilliam/jaredwilliam.github.io/blob/main/Notebooks/Univariate%20Linear%20Regression/Food%20Trucks%20in%20Cities/notebook.ipynb) | [NB Viewer](https://nbviewer.jupyter.org/github/jaredwilliam/jaredwilliam.github.io/blob/main/Notebooks/Univariate%20Linear%20Regression/Food%20Trucks%20in%20Cities/notebook.ipynb)
 
-## Ecommerce
+### Ecommerce
 Looking at fake ecommerce data to decide whether to focus company efforts on mobile app experience or website. From Jose Portilla's Python Machine Learning Course. 
 
 [Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/11-Linear-Regression/02-Linear%20Regression%20Project.ipynb)
 
-# Logistic Regression
+## Logistic Regression
 [Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/13-Logistic-Regression/02-Logistic%20Regression%20Project.ipynb)
 
-# K-nearest neighbors
+## K-nearest neighbors
 [Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20Project.ipynb)
 
-# Decision trees and random forests
+## Decision trees and random forests
 [Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/15-Decision-Trees-and-Random-Forests/02-Decision%20Trees%20and%20Random%20Forest%20Project.ipynb)
 
-# Support vector machines
+## Support vector machines
 [Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/16-Support-Vector-Machines/02-Support%20Vector%20Machines%20Project.ipynb)
 
-# K-means clustering
+## K-means clustering
 [Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/17-K-Means-Clustering/02-K%20Means%20Clustering%20Project.ipynb)
 
 
