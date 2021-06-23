@@ -6,6 +6,7 @@ Looking at the profits made by foodtrucks in different sized cities. This comes 
 
 ## Ecommerce
 Looking at fake ecommerce data to decide whether to focus company efforts on mobile app experience or website. From Jose Portilla's Python Machine Learning Course. 
+
 [Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/11-Linear-Regression/02-Linear%20Regression%20Project.ipynb)
 
 # Logistic Regression
