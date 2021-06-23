@@ -8,12 +8,17 @@ Looking at the profits made by foodtrucks in different sized cities. This comes 
 [Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/13-Logistic-Regression/02-Logistic%20Regression%20Project.ipynb)
 
 # K-nearest neighbors
+[Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20Project.ipynb)
+
 # Decision trees and random forests
+[Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/15-Decision-Trees-and-Random-Forests/02-Decision%20Trees%20and%20Random%20Forest%20Project.ipynb)
+
 # Support vector machines
+[Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/16-Support-Vector-Machines/02-Support%20Vector%20Machines%20Project.ipynb)
+
 # K-means clustering
-# Principle component analysis
-# Recommender systems
-# Natural language processing 
+[Notebook](https://github.com/jaredwilliam/Python-Machine-Learning/blob/main/17-K-Means-Clustering/02-K%20Means%20Clustering%20Project.ipynb)
+
 
 
 # Data Visualizations
