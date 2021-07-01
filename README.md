@@ -1,6 +1,3 @@
-# Artifical Intelligence
-To do
-
 # Machine Learning
 ## Linear Regression
 ### Food Truck Profits
